@@ -1,0 +1,272 @@
+{
+  "Swipers": [
+    {
+      "url": "https://m.360buyimg.com/babel/jfs/t22111/75/2483968056/97987/d3ffe87f/5b57d853Nadb04d09.jpg"
+    },
+    {
+      "url": "https://img1.360buyimg.com/pop/jfs/t20362/247/2516952813/187376/c86ed7f/5b593c9cN3afd4ae3.jpg"
+    },
+    {
+      "url": "https://img1.360buyimg.com/pop/jfs/t21418/92/2289144673/138033/cb1e2/5b4ebd1cN8423ebd8.jpg"
+    },
+    {
+      "url": "https://m.360buyimg.com/babel/jfs/t23488/336/1243804634/70851/8181d16a/5b57f844Nd8436a29.jpg"
+    }
+  ],
+  "hotbooks": [
+    {
+      "id": 1,
+      "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t9508/97/2285719018/62961/99c5b1b7/59f299b4Nc9e78adb.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 2,
+      "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t3049/211/1135504925/129375/cc072102/57c6862aN329b23fd.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 3,
+      "bookCover": "https://img13.360buyimg.com/n1/s200x200_jfs/t16417/246/2059958728/15282/16cda228/5a7d6a79N68070471.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 4,
+      "bookCover": "https://img11.360buyimg.com/n1/s200x200_jfs/t19639/82/1449967862/63486/d492a85d/5acc24d3Nb843c4ae.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 5,
+      "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t9508/97/2285719018/62961/99c5b1b7/59f299b4Nc9e78adb.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 6,
+      "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t3049/211/1135504925/129375/cc072102/57c6862aN329b23fd.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 7,
+      "bookCover": "https://img13.360buyimg.com/n1/s200x200_jfs/t16417/246/2059958728/15282/16cda228/5a7d6a79N68070471.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 8,
+      "bookCover": "https://img11.360buyimg.com/n1/s200x200_jfs/t19639/82/1449967862/63486/d492a85d/5acc24d3Nb843c4ae.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    }
+  ],
+  "books": [
+    {
+      "id": 3,
+      "bookCover": "https://img11.360buyimg.com/n2/jfs/t16936/220/1462766206/363011/c1deaf56/5acb3a39N29a06bef.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "60"
+    },
+    {
+      "id": 4,
+      "bookCover": "https://img11.360buyimg.com/n1/s200x200_jfs/t19639/82/1449967862/63486/d492a85d/5acc24d3Nb843c4ae.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 6,
+      "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t3049/211/1135504925/129375/cc072102/57c6862aN329b23fd.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 7,
+      "bookCover": "https://img13.360buyimg.com/n1/s200x200_jfs/t16417/246/2059958728/15282/16cda228/5a7d6a79N68070471.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 8,
+      "bookCover": "https://img11.360buyimg.com/n1/s200x200_jfs/t19639/82/1449967862/63486/d492a85d/5acc24d3Nb843c4ae.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 9,
+      "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t9508/97/2285719018/62961/99c5b1b7/59f299b4Nc9e78adb.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 10,
+      "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t3049/211/1135504925/129375/cc072102/57c6862aN329b23fd.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 11,
+      "bookCover": "https://img13.360buyimg.com/n1/s200x200_jfs/t16417/246/2059958728/15282/16cda228/5a7d6a79N68070471.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 12,
+      "bookCover": "https://img11.360buyimg.com/n1/s200x200_jfs/t19639/82/1449967862/63486/d492a85d/5acc24d3Nb843c4ae.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 13,
+      "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t9508/97/2285719018/62961/99c5b1b7/59f299b4Nc9e78adb.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 14,
+      "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t3049/211/1135504925/129375/cc072102/57c6862aN329b23fd.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 15,
+      "bookCover": "https://img13.360buyimg.com/n1/s200x200_jfs/t16417/246/2059958728/15282/16cda228/5a7d6a79N68070471.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 16,
+      "bookCover": "https://img11.360buyimg.com/n1/s200x200_jfs/t19639/82/1449967862/63486/d492a85d/5acc24d3Nb843c4ae.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 18,
+      "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t3049/211/1135504925/129375/cc072102/57c6862aN329b23fd.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 19,
+      "bookCover": "https://img13.360buyimg.com/n1/s200x200_jfs/t16417/246/2059958728/15282/16cda228/5a7d6a79N68070471.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 20,
+      "bookCover": "https://img11.360buyimg.com/n1/s200x200_jfs/t19639/82/1449967862/63486/d492a85d/5acc24d3Nb843c4ae.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 21,
+      "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t9508/97/2285719018/62961/99c5b1b7/59f299b4Nc9e78adb.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 22,
+      "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t3049/211/1135504925/129375/cc072102/57c6862aN329b23fd.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 23,
+      "bookCover": "https://img13.360buyimg.com/n1/s200x200_jfs/t16417/246/2059958728/15282/16cda228/5a7d6a79N68070471.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 24,
+      "bookCover": "https://img11.360buyimg.com/n1/s200x200_jfs/t19639/82/1449967862/63486/d492a85d/5acc24d3Nb843c4ae.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 25,
+      "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t9508/97/2285719018/62961/99c5b1b7/59f299b4Nc9e78adb.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 26,
+      "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t3049/211/1135504925/129375/cc072102/57c6862aN329b23fd.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 27,
+      "bookCover": "https://img13.360buyimg.com/n1/s200x200_jfs/t16417/246/2059958728/15282/16cda228/5a7d6a79N68070471.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 28,
+      "bookCover": "https://img11.360buyimg.com/n1/s200x200_jfs/t19639/82/1449967862/63486/d492a85d/5acc24d3Nb843c4ae.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 29,
+      "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t9508/97/2285719018/62961/99c5b1b7/59f299b4Nc9e78adb.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 30,
+      "bookCover": "https://img14.360buyimg.com/n1/s200x200_jfs/t3049/211/1135504925/129375/cc072102/57c6862aN329b23fd.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 31,
+      "bookCover": "https://img13.360buyimg.com/n1/s200x200_jfs/t16417/246/2059958728/15282/16cda228/5a7d6a79N68070471.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    },
+    {
+      "id": 32,
+      "bookCover": "https://img11.360buyimg.com/n1/s200x200_jfs/t19639/82/1449967862/63486/d492a85d/5acc24d3Nb843c4ae.jpg",
+      "bookName": "Vue.js实战",
+      "bookInfo": "与React|Angular三分天下",
+      "bookPrice": "78.2"
+    }
+  ]
+}
