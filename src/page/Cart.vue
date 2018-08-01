@@ -26,7 +26,6 @@
 <script>
   import MHeader from '../components/MHeader';
   import {mapState} from 'vuex';
-  import {CLEAR_CART} from '../store/mutations-type'
 
     export default {
         name: "Cart",
