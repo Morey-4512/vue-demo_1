@@ -11,9 +11,6 @@ const mutations={
       book.bookCount=1;
       state.cartList=[...state.cartList,book]
     }
-  },
-  [Types.CLEAR_CART](state){
-    state.cartList=[];
   }
 }
 export default mutations;
